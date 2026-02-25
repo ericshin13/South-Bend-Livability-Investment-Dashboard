@@ -4,6 +4,6 @@ This project explored data-driven opportunities to improve urban livability and 
 
 **Group Collaborators: Steven Villalon, Natasha Malik, Gabby Salera, Eric Shin**
 
-## Technology Used: R Programming Language
+## Technology Used: R Programming Language, Google Docs
 ## Project Code is located in the app.R file
 ## Project Brief is located in the pdf file
